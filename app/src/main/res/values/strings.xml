@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pickme2</string>
+    <string name="pickme">Pickme</string>
+    <string name="password">Password</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_origin">Origin</string>
+    <string name="sell_your_books">Sell your Books</string>
+    <string name="donate_a_book">Donate a Book</string>
+    <string name="request_a_book">Request a Book</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="my_orders">My Orders</string>
+</resources>

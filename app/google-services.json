@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934323319177",
+    "firebase_url": "https://pickme2-3ce17.firebaseio.com",
+    "project_id": "pickme2-3ce17",
+    "storage_bucket": "pickme2-3ce17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934323319177:android:c14f9e984cb5e2ce31b158",
+        "android_client_info": {
+          "package_name": "com.example.pickme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934323319177-fh8mlu11rutnsq63te8okb5810hpec7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pickme2",
+            "certificate_hash": "914e1026a760e01aa58589ad560c7817c8cbb1b2"
+          }
+        },
+        {
+          "client_id": "934323319177-ree59og67mfobkguj9ng52fg0o8r0rl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArV3dzgRDbNTw2VtC-ZTVgTGu5XIb9Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934323319177-ree59og67mfobkguj9ng52fg0o8r0rl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
